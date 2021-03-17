@@ -1,0 +1,10 @@
+E:\ukk\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+E:\ukk\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+E:\ukk\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+E:\ukk\kalkulator\kalkulator\obj\Debug\kalkulator.csprojAssemblyReference.cache
+E:\ukk\kalkulator\kalkulator\obj\Debug\kalkulator.Calculator.resources
+E:\ukk\kalkulator\kalkulator\obj\Debug\kalkulator.Properties.Resources.resources
+E:\ukk\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.GenerateResource.cache
+E:\ukk\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.CoreCompileInputs.cache
+E:\ukk\kalkulator\kalkulator\obj\Debug\kalkulator.exe
+E:\ukk\kalkulator\kalkulator\obj\Debug\kalkulator.pdb
